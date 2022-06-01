@@ -1,11 +1,5 @@
 import { useEffect, useState } from "react"
 import { Card, Container, Row, Col, Image } from "react-bootstrap"
-// import eiffelImage from "../assets/images/trending/eiffel.jpg"
-// import ourFatherImage from "../assets/images/trending/our-father.jpg"
-// import morMarvelImage from "../assets/images/trending/morMarvel.jpg"
-// import hitAndRunImage from "../assets/images/trending/hit-n-run.jpg"
-// import justMomImage from "../assets/images/trending/just-mom.jpg"
-// import ttlImage from "../assets/images/trending/teka-teki-lika.jpg"
 import axios from "axios"
 
 const Trending = () => {
