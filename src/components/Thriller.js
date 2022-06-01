@@ -13,7 +13,7 @@ const Thriller = () => {
         <h1 className="text-white">Thriller Movies</h1>
         <br />
         <Row>
-          <Col md={4} className="movieWrapper" id="thriller">
+          <Col md={4} className="movieWrapper mb-3" id="thriller">
             <Card className="movieImage">
               <Image
                 src={aouadImage}
