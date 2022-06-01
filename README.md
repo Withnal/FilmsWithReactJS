@@ -17,4 +17,4 @@ You may also see any lint errors in the console.
 ### `detail`
 
 Website ini dibuat sebagai bahan pembelajaran menggunakan reactjs.
-Untuk APInya saya menggunakan API gratis dari website [themoviedb](https://developers.themoviedb.org/4/getting-started)
+Untuk APInya saya menggunakan API gratis dari website [themoviedb](https://developers.themoviedb.org)
